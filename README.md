@@ -7,21 +7,20 @@ Time spent: **7** hours spent in total
 ## User Stories
 
 The following **required** functionality is completed:
-
+- [X] User can sign up to create a new account using Parse authentication.
+- [X] User can log in and log out of his or her account.
+- [X] The current signed in user is persisted across app restarts.
+- [X] User can take a photo, add a caption, and post it to "Instagram".
 - [X] User can view the last 20 posts submitted to "Instagram".
 - [X] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
-- [ ] User can pull to refresh the last 20 posts submitted to "Instagram".
 
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-
+<img src='https://imgur.com/y87HCWs.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ![Instagram P2](https://user-images.githubusercontent.com/89542741/161360057-0a814d72-ca69-4f81-a102-6453c9429bd4.gif)
 
 
