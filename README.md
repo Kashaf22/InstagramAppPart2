@@ -21,6 +21,7 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/y87HCWs.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 ![Instagram P2](https://user-images.githubusercontent.com/89542741/161360057-0a814d72-ca69-4f81-a102-6453c9429bd4.gif)
 
 
